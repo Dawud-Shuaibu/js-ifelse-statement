@@ -1,2 +1,2 @@
-# js-ifelse-statement
- JavaScript "ifelse" Statement
+# JavaScript *ifelse* statement
+ Contains how to use javascript *ifelse* statement in action.
